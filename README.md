@@ -207,3 +207,6 @@ This repository serves as the official landing page for Home FTP Server. The sof
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Home FTP Server today!**
+
+---
+**Last updated:** 2026-11-09 08:46:33 UTC
