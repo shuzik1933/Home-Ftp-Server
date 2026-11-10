@@ -209,4 +209,4 @@ This repository serves as the official landing page for Home FTP Server. The sof
 **Get the most recent version of Home FTP Server today!**
 
 ---
-**Last updated:** 2026-11-10 02:27:00 UTC
+**Last updated:** 2026-11-10 10:32:22 UTC
